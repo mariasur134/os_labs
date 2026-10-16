@@ -1,1 +1,1 @@
-labs for operational systems (3d semester), 18th version (variant)
+labs for operational systems, 3 semester, 18 variant 
